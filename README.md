@@ -1,4 +1,3 @@
-@"
 # Django Project
 
 Учебный проект на фреймворке Django. Управление зависимостями через Poetry, разработка по **GitFlow**.
@@ -19,4 +18,3 @@
 * `main` — стабильная ветка с готовым кодом.
 * `develop` — основная ветка разработки.
 * `feature/homework-N` — ветки для выполнения домашних заданий (создаются от `develop`).
-"@ | Out-File -FilePath README.md -Encoding utf8

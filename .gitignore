@@ -1,8 +1,6 @@
-@"
 .venv/
 __pycache__/
 *.py[cod]
 *.sqlite3
 .env
 .idea/
-"@ | Out-File -FilePath .gitignore -Encoding utf8
